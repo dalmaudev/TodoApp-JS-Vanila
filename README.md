@@ -1,14 +1,3 @@
-# Webpack Starter
+# Todo App
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
-
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
-
-Y para construir el build, recueren:
-```
-npm run build
-```
+Todo App creada desde 0, JS Vanila. Template creado por Sindre Sorhus
